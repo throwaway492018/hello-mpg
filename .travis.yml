@@ -6,4 +6,4 @@ install:
  - make create_environment
 before_script:
  - "export PYTHONPATH=$PYTHONPATH:$(pwd)"
-script: make train
+script: make model_test
