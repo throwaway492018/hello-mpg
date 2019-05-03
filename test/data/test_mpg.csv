@@ -1,0 +1,6 @@
+mpg,cylinders,displacement,horsepower,weight,acceleration,model_year,origin,name
+27.0,4,97.0,88.0,2130,14.5,70,japan,datsun pl510
+25.0,4,113.0,95.0,2228,14.0,71,japan,toyota corona
+12.0,8,383.0,180.0,4955,11.5,71,usa,dodge monaco (sw)
+14.0,8,400.0,175.0,4385,12.0,72,usa,pontiac catalina
+21.0,4,120.0,87.0,2979,19.5,72,europe,peugeot 504 (sw)
